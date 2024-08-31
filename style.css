@@ -30,3 +30,12 @@ body {
   background-color: #8b8b8b;
   padding: 0.5rem;
 }
+
+header {
+  background-color: #a0a0a0;
+  height: 100vh;
+}
+
+.introduction {
+  padding: 1.5rem;
+}
