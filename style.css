@@ -32,10 +32,18 @@ body {
 }
 
 header {
+  display: flex;
   background-color: #a0a0a0;
   height: 100vh;
 }
 
 .introduction {
   padding: 1.5rem;
+}
+
+.introduction--img {
+  max-width: 400px;
+  min-width: 400px;
+  max-height: 300px;
+  min-height: 300px;
 }
