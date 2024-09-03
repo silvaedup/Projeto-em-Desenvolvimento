@@ -52,7 +52,22 @@ header {
   position: relative;
   display: grid;
   align-content: center;
-  justify-items: end;
+  text-align: center;
+}
+
+.introduction--text h1 {
+  margin: 0;
+  padding: 0.5rem;
+}
+
+.introduction--text h2 {
+  margin: 0;
+  padding: 0.5rem;
+}
+
+.introduction--text p {
+  margin: 0;
+  padding: 0.5rem;
 }
 
 .introduction--img {
