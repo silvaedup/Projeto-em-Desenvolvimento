@@ -75,7 +75,22 @@ header {
   height: 100%;
 }
 
-img {
+.introduction--img img {
   max-width: 100%;
   display: block;
+}
+
+.advantages--items {
+  background: #fff;
+  padding: 0.5rem;
+  position: relative;
+  display: grid;
+  align-content: center;
+  text-align: center;
+}
+
+.advantages--items p {
+  margin: 0;
+  padding: 0.5rem;
+  font-size: 3rem;
 }
