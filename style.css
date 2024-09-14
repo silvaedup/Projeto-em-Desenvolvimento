@@ -81,7 +81,7 @@ header {
 
 .advantages--items {
   background: #fff;
-  padding: 0.5rem;
+  padding: 0;
   position: relative;
   display: grid;
   align-content: center;
@@ -90,6 +90,11 @@ header {
 
 .advantages--items p {
   margin: 0;
-  padding: 0.5rem;
+  padding: 4rem;
   font-size: 3rem;
+}
+
+.advantages--items ul {
+  margin: 0;
+  padding: 4rem;
 }
