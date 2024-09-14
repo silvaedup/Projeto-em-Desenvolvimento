@@ -98,3 +98,17 @@ header {
   margin: 0;
   padding: 4rem;
 }
+
+main {
+  display: grid;
+  justify-items: center;
+}
+
+.development {
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0.5rem;
+  display: grid;
+  justify-items: center;
+  max-width: 1000px;
+}
